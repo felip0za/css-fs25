@@ -22,7 +22,11 @@ a{
 
 a:hover{
     color: red;
+    font-size: 20px;
+    transition: 1s;
 }
+
+
 
 p{
     font-size: 18px;
